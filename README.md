@@ -12,7 +12,7 @@
 - A modern design created with advanced HTML and CSS code.
 - Responsiveness and usability achieved using Bootstrap templates.
 - Enriched content with Google fonts and Bootstrap icons.
-If you have any questions or suggestions, feel free to contact me at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions, feel free to contact me at [gkarakaya0601@gmail.com](mailto:email@example.com).
 
 </p>
 
